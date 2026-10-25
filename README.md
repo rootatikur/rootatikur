@@ -1,5 +1,4 @@
-# Hi, I'm MD Atikur Rahman 👋
-
+# Hi, I'm Atikur...
 ### Data Analytics | Business Intelligence | Market Intelligence
 
 I'm an International Management and Digital Engineering student at **Hochschule München, Germany**, passionate about transforming data into actionable business insights.
